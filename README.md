@@ -86,6 +86,7 @@ The application will be available at http://localhost:5173
 ## 👨‍💻 Author
 
  - Afonso Gesualdi
+
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-blue?style=for-the-badge)](https://afonsodev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-blue?style=for-the-linkedin)](https://afonsodev.vercel.app/](https://www.linkedin.com/in/afonso-gesualdi-aaa9bb244/))
 
